@@ -61,7 +61,7 @@ export default class NewsCard extends Component {
             {
 
               this.state.apiError === 0 && this.state.articles.map((element) => {
-                console.log(element.creator[0])
+              
                 return <div className='col-md-4' key={element.title}>
                   {/* <NewsItems title={element.title} description={element.description} ImgUrl={element.urlToImage} readmore={element.url} author={element.author} publishedAt={element.publishedAt} source={element.source.name} /> */}
                   <NewsItems title={element.title} description={element.description} ImgUrl={element.image_url} readmore={element.link} author={element.creator} publishedAt={element.pubDate} source={element.source_id} />
