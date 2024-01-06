@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Peter Aitken",
+            "title": "Social media trend mocks 'brief groping' ruling by Italian judge in sex assault case - Fox News",
+            "description": "An Italian judge’s ruling that sexual harassment doesn’t occur until 10 seconds have passed has caused outrage and prompted a trend on social media of Italians groping themselves to show just how long that is.",
+            "url": "https://www.foxnews.com/world/social-media-trend-mocks-brief-groping-ruling-italian-judge-sex-assault-case",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/grope-stock.png",
+            "publishedAt": "2023-07-15T12:00:00Z",
+            "content": "An Italian judges ruling that sexual harassment doesnt occur until 10 seconds have passed has caused outrage and prompted a trend on social media of Italians groping themselves to show just how long … [+2744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "2023 Wimbledon odds, women's final predictions: Top tennis expert locks in Jabeur vs. Vondrousova picks, bets - CBS Sports",
+            "description": "Elite tennis handicapper Jose Onorato has revealed his Marketa Vondrousova vs. Ons Jabeur picks and best bets for the Wimbledon 2023 final",
+            "url": "https://www.cbssports.com/tennis/news/2023-wimbledon-odds-womens-final-predictions-top-tennis-expert-locks-in-jabeur-vs-vondrousova-picks-bets/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/15/1e1fcb23-fbe8-459e-94c2-0e82b864c0db/thumbnail/1200x675/67a87a9cb8450ec54cc60368a9c3233d/ons-jabeur-tennis-usatsi.jpg",
+            "publishedAt": "2023-07-15T11:21:49Z",
+            "content": "Unseeded Marketa Vondrousova faces off against No. 6 seed Ons Jabeur in a high-profile match on Saturday. The talented players meet for the 2023 Wimbledon women's singles title at All England Club. T… [+3337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Erum Salam",
+            "title": "Invasive snake wrestled into submission by hunters is Florida's longest - The Guardian",
+            "description": "Video of capture of Burmese python measured at 19ft – as long as an adult giraffe is tall – was posted on Instagram",
+            "url": "https://www.theguardian.com/environment/2023/jul/15/snake-longest-burmese-python-florida",
+            "urlToImage": "https://i.guim.co.uk/img/media/01039ee5bd53b8834bcdf1f5ca55967a611663d7/0_112_3860_2316/master/3860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d73c3847470937315d926e9b126683d9",
+            "publishedAt": "2023-07-15T11:13:00Z",
+            "content": "A snake believed to be the longest invasive Burmese python ever recorded was captured by two Florida hunters after a mighty struggle.\r\nStephen Gauta and Jake Waleri caught the humungous reptile in Bi… [+9635 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Tim Carman",
+            "title": "A gay-owned Virginia restaurant is in a dispute with its neighbors - The Washington Post",
+            "description": "The conflict between a restaurant and conservative neighbors is tearing at the fabric of The Plains, Va., population 250.",
+            "url": "https://www.washingtonpost.com/food/interactive/2023/front-porch-restaurant-virginia-dispute/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KU7JFQBAYT2X775KMDHIVXP2VQ.JPG&w=1200",
+            "publishedAt": "2023-07-15T10:52:30Z",
+            "content": "Deep Reads features The Washington Posts best immersive reporting and narrative writing.\r\nAs soon as she spotted the lifeless vermin, Tiffany Foster had a hunch about how it appeared near the trash b… [+25049 chars]"
+        }
+      
+    ]
+}
