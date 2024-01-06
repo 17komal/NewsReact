@@ -1,6 +1,6 @@
 {
-  "homepage": "https://17komal.github.io/NewsExpress",
-  "name": "news-express",
+  "homepage": "https://17komal.github.io/NewsReact",
+  "name": "news-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

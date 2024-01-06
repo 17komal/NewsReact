@@ -27,13 +27,13 @@ export default class App extends Component {
            
           />
           <Routes>
-            <Route exact path="/NewsExpress" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='general' country="in" pageSize={this.pageSize} category='general' />} />
-            <Route exact path="/NewsExpress/business" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='business' country="in" pageSize={this.pageSize} category='business' />} />
-            <Route exact path="/NewsExpress/entertainment" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='entertainment' country="in" pageSize={this.pageSize} category='entertainment' />} />
-            <Route exact path="/NewsExpress/health" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='health' country="in" pageSize={this.pageSize} category='health' />} />
-            <Route exact path="/NewsExpress/science" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='science' country="in" pageSize={this.pageSize} category='science' />} />
-            <Route exact path="/NewsExpress/sports" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='sports' country="in" pageSize={this.pageSize} category='sports' />} />
-            <Route exact path="/NewsExpress/technology" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='technology' country="in" pageSize={this.pageSize} category='technology' />} />
+            <Route exact path="/NewsReact" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='general' country="in" pageSize={this.pageSize} category='general' />} />
+            <Route exact path="/NewsReact/business" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='business' country="in" pageSize={this.pageSize} category='business' />} />
+            <Route exact path="/NewsReact/entertainment" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='entertainment' country="in" pageSize={this.pageSize} category='entertainment' />} />
+            <Route exact path="/NewsReact/health" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='health' country="in" pageSize={this.pageSize} category='health' />} />
+            <Route exact path="/NewsReact/science" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='science' country="in" pageSize={this.pageSize} category='science' />} />
+            <Route exact path="/NewsReact/sports" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='sports' country="in" pageSize={this.pageSize} category='sports' />} />
+            <Route exact path="/NewsReact/technology" element={<NewsCard  setProgress ={this.setProgress } apiKey={this.apiKey }  key='technology' country="in" pageSize={this.pageSize} category='technology' />} />
           </Routes>
         </Router>
       </div >

@@ -2,6 +2,14 @@
     left: 85%;
 }
 
+#newsItemsCard
+{
+    height: 40em;
+}
 #newsItemsImg{
-    height: 25em;
+    height: 40%;
+}
+
+.card-text{
+    height: 75%;
 }

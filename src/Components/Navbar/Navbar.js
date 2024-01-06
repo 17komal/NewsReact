@@ -14,13 +14,13 @@ export default class Navbar extends Component {
                         </button>
                         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <div className="navbar-nav">
-                                <Link className="nav-link" to="/NewsExpress">General</Link>
-                                <Link className="nav-link" to="/NewsExpress/business"> Business </Link>
-                                <Link className="nav-link" to="/NewsExpress/entertainment"> Entertainment </Link>
-                                <Link className="nav-link" to="/NewsExpress/health"> Health </Link>
-                                <Link className="nav-link" to="/NewsExpress/science"> Science </Link>
-                                <Link className="nav-link" to="/NewsExpress/sports"> Sports </Link>
-                                <Link className="nav-link" to="/NewsExpress/technology"> Technology </Link>
+                                <Link className="nav-link" to="/NewsReact">General</Link>
+                                <Link className="nav-link" to="/NewsReact/business"> Business </Link>
+                                <Link className="nav-link" to="/NewsReact/entertainment"> Entertainment </Link>
+                                <Link className="nav-link" to="/NewsReact/health"> Health </Link>
+                                <Link className="nav-link" to="/NewsReact/science"> Science </Link>
+                                <Link className="nav-link" to="/NewsReact/sports"> Sports </Link>
+                                <Link className="nav-link" to="/NewsReact/technology"> Technology </Link>
                             </div>
                         </div>
                     </div>
