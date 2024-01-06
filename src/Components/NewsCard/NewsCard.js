@@ -17,6 +17,7 @@ export default class NewsCard extends Component {
     this.props.setProgress(10);
    //  let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}&category=${this.props.category}`;
      let url = `  https://newsdata.io/api/1/news?apikey=pub_35924ad8448eb14892735a427ed558d180c07&country=${this.props.country}&q=${this.props.category}`;
+     
     let data = await fetch(url);
     let parseData = await data.json(data);
     console.error(parseData);
