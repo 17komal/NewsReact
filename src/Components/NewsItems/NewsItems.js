@@ -12,7 +12,7 @@ export default class NewsItems extends Component {
                     <div className="card-body">
                         <div className="card-text">
                             <h5 className="card-title">{title}</h5>
-                            <p className="card-desc">{description.substring(0, 300) + "..."}</p>
+                            <p className="card-desc">{ description ? description.substring(0, 300) + "..." : ''}</p>
 
                         </div>
                         <div className='read_more'>
