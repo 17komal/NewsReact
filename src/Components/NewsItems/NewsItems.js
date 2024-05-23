@@ -16,12 +16,12 @@ export default class NewsItems extends Component {
 
                         </div>
                         <div className='read_more'>
-                            <a href={readmore} className="btn btn-sm btn-dark" target='_blank'>read more..</a>
+                            <a href={readmore} className="btn btn-sm btn-dark" target='_blank'  rel="noreferrer" >read more..</a>
                         </div>
 
                     </div>
                     <div className="card-footer">
-                        <small className="text-muted">On {new Date(publishedAt).toUTCString()} By {author== 'null' ? author : 'Unknow'}</small>
+                        <small className="text-muted">On {new Date(publishedAt).toUTCString()} By {author === 'null' ? author : 'Unknow'}</small>
                     </div>
                 </div>
             </div>
